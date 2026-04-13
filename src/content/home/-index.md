@@ -1,5 +1,5 @@
 ---
-image: "/assets/hoholuft.svg"
+image: "@assets/astrogon-star.svg"
 imageAlt: Astrogon logo
 title: Islandpferde von Hoheluft
 content: A rapidly-customizable template for a blog, documentation, and more.
